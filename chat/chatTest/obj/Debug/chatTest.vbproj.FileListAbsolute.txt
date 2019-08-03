@@ -1,0 +1,10 @@
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\bin\Debug\chatTest.exe.config
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\bin\Debug\chatTest.exe
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\bin\Debug\chatTest.pdb
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\bin\Debug\chatTest.xml
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\obj\Debug\chatTest.Form1.resources
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\obj\Debug\chatTest.Resources.resources
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\obj\Debug\chatTest.vbproj.GenerateResource.Cache
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\obj\Debug\chatTest.exe
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\obj\Debug\chatTest.xml
+c:\users\mokgosi\documents\visual studio 2012\Projects\chatTest\chatTest\obj\Debug\chatTest.pdb
